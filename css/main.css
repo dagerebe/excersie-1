@@ -16,3 +16,18 @@ html {
 *, *:before, *:after {
 	box-sizing: inherit;
 }
+
+.title {
+	text-align: center;
+	font-size: 2em;
+	font-weight: 100;
+	font-family: sans-serif;
+}
+
+.penguin-holder {
+	text-align: center;
+}
+
+.icon-penguin {
+	font-size: 10em;
+}
