@@ -17,17 +17,53 @@ html {
 	box-sizing: inherit;
 }
 
+.bg {
+	background-color: rgb(166,229,232);
+	margin: .5em;
+}
+
 .title {
 	text-align: center;
 	font-size: 2em;
 	font-weight: 100;
 	font-family: sans-serif;
+	text-transform: uppercase;
+	color: white;
+	padding-bottom: 1em;
 }
 
 .penguin-holder {
 	text-align: center;
 }
 
-.icon-penguin {
-	font-size: 10em;
+.snow1-holder {
+	text-align: center;
 }
+
+.snow2-holder {
+	text-align: center;
+}
+
+
+.icon-snow1 {
+	font-size: 10em;
+	color: white;
+}
+
+.icon-snow2 {
+	font-size: 10em;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
